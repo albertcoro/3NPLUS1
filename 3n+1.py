@@ -18,6 +18,6 @@ for i in range(minimum,maximum):
         count = count +1
     
     pyplot.plot(x, y, color='black')
-    #print(i," took ",count," steps until reaching 1")
+    print(i," took ",count," steps until reaching 1")
  
 pyplot.show() 
