@@ -6,7 +6,7 @@ This is a famous mathematics problem in witch we grab a random number at will an
 if it's odd we multiply it by 3 and we add 1, if it's even we divide it by two. Once we get the result we keep on applying these rules
 until we get to a bucle 4 goes to 2 goes to 1 and back to 4.
 
-<h3>What the motivation behind id?</h3>
+<h3>What the motivation behind it?</h3>
 
 I enjoy applying my knowledge of computer science and mathematics to challenge myself in small programming puzzles such as this one, thinking
 about how it potentially could be solved, what data structures should I use to maximize efficiency, etc.
