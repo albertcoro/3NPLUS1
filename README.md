@@ -1,5 +1,4 @@
 # 3NPLUS1
-The 3n+1 problem
 
 <h3>What is this project?</h3>
 
